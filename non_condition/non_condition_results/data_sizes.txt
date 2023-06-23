@@ -1,0 +1,8 @@
+dance_exec_clean: 1085
+dance_exec_raw: 1263
+dance_instr_clean: 704
+dance_instr_raw: 839
+walk_exec_clean: 1050
+walk_instr_clean: 690
+walk_instr_raw: 869
+walk_exec_raw: 1297
