@@ -248,4 +248,4 @@ Std overall accuracy: 0.203088
 Mean P accuracy: 0.805723 
 Std P accuracy: 0.217210 
 Mean S accuracy: 0.666944 
-Std S accuracy: 0.376757 
+Std S accuracy: 0.376757
