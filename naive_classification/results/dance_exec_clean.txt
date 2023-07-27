@@ -1,0 +1,251 @@
+----------------------SELECTED FILES: 0 and 7---------------------
+Classification accuracy for P: 1.000000 
+Classification accuracy for S: 0.000000 
+Classification accuracy for P and S: 0.500000 
+
+----------------------SELECTED FILES: 0 and 8---------------------
+Classification accuracy for P: 0.675325 
+Classification accuracy for S: 1.000000 
+Classification accuracy for P and S: 0.837662 
+
+----------------------SELECTED FILES: 0 and 9---------------------
+Classification accuracy for P: 0.896104 
+Classification accuracy for S: 1.000000 
+Classification accuracy for P and S: 0.948052 
+
+----------------------SELECTED FILES: 0 and 10---------------------
+Classification accuracy for P: 0.233766 
+Classification accuracy for S: 0.897196 
+Classification accuracy for P and S: 0.565481 
+
+----------------------SELECTED FILES: 0 and 11---------------------
+Classification accuracy for P: 0.636364 
+Classification accuracy for S: 0.202703 
+Classification accuracy for P and S: 0.419533 
+
+----------------------SELECTED FILES: 0 and 12---------------------
+Classification accuracy for P: 0.844156 
+Classification accuracy for S: 0.000000 
+Classification accuracy for P and S: 0.422078 
+
+----------------------SELECTED FILES: 0 and 13---------------------
+Classification accuracy for P: 0.597403 
+Classification accuracy for S: 1.000000 
+Classification accuracy for P and S: 0.798701 
+
+----------------------SELECTED FILES: 1 and 7---------------------
+Classification accuracy for P: 1.000000 
+Classification accuracy for S: 0.000000 
+Classification accuracy for P and S: 0.500000 
+
+----------------------SELECTED FILES: 1 and 8---------------------
+Classification accuracy for P: 0.979592 
+Classification accuracy for S: 1.000000 
+Classification accuracy for P and S: 0.989796 
+
+----------------------SELECTED FILES: 1 and 9---------------------
+Classification accuracy for P: 1.000000 
+Classification accuracy for S: 0.000000 
+Classification accuracy for P and S: 0.500000 
+
+----------------------SELECTED FILES: 1 and 10---------------------
+Classification accuracy for P: 1.000000 
+Classification accuracy for S: 0.785047 
+Classification accuracy for P and S: 0.892523 
+
+----------------------SELECTED FILES: 1 and 11---------------------
+Classification accuracy for P: 0.938776 
+Classification accuracy for S: 0.351351 
+Classification accuracy for P and S: 0.645063 
+
+----------------------SELECTED FILES: 1 and 12---------------------
+Classification accuracy for P: 1.000000 
+Classification accuracy for S: 0.776316 
+Classification accuracy for P and S: 0.888158 
+
+----------------------SELECTED FILES: 1 and 13---------------------
+Classification accuracy for P: 1.000000 
+Classification accuracy for S: 1.000000 
+Classification accuracy for P and S: 1.000000 
+
+----------------------SELECTED FILES: 2 and 7---------------------
+Classification accuracy for P: 1.000000 
+Classification accuracy for S: 0.010309 
+Classification accuracy for P and S: 0.505155 
+
+----------------------SELECTED FILES: 2 and 8---------------------
+Classification accuracy for P: 1.000000 
+Classification accuracy for S: 1.000000 
+Classification accuracy for P and S: 1.000000 
+
+----------------------SELECTED FILES: 2 and 9---------------------
+Classification accuracy for P: 1.000000 
+Classification accuracy for S: 0.927536 
+Classification accuracy for P and S: 0.963768 
+
+----------------------SELECTED FILES: 2 and 10---------------------
+Classification accuracy for P: 1.000000 
+Classification accuracy for S: 0.971963 
+Classification accuracy for P and S: 0.985981 
+
+----------------------SELECTED FILES: 2 and 11---------------------
+Classification accuracy for P: 1.000000 
+Classification accuracy for S: 0.418919 
+Classification accuracy for P and S: 0.709459 
+
+----------------------SELECTED FILES: 2 and 12---------------------
+Classification accuracy for P: 1.000000 
+Classification accuracy for S: 0.934211 
+Classification accuracy for P and S: 0.967105 
+
+----------------------SELECTED FILES: 2 and 13---------------------
+Classification accuracy for P: 1.000000 
+Classification accuracy for S: 1.000000 
+Classification accuracy for P and S: 1.000000 
+
+----------------------SELECTED FILES: 3 and 7---------------------
+Classification accuracy for P: 0.767123 
+Classification accuracy for S: 0.144330 
+Classification accuracy for P and S: 0.455727 
+
+----------------------SELECTED FILES: 3 and 8---------------------
+Classification accuracy for P: 0.972603 
+Classification accuracy for S: 1.000000 
+Classification accuracy for P and S: 0.986301 
+
+----------------------SELECTED FILES: 3 and 9---------------------
+Classification accuracy for P: 0.876712 
+Classification accuracy for S: 0.782609 
+Classification accuracy for P and S: 0.829661 
+
+----------------------SELECTED FILES: 3 and 10---------------------
+Classification accuracy for P: 1.000000 
+Classification accuracy for S: 0.981308 
+Classification accuracy for P and S: 0.990654 
+
+----------------------SELECTED FILES: 3 and 11---------------------
+Classification accuracy for P: 0.931507 
+Classification accuracy for S: 0.283784 
+Classification accuracy for P and S: 0.607645 
+
+----------------------SELECTED FILES: 3 and 12---------------------
+Classification accuracy for P: 0.986301 
+Classification accuracy for S: 0.368421 
+Classification accuracy for P and S: 0.677361 
+
+----------------------SELECTED FILES: 3 and 13---------------------
+Classification accuracy for P: 0.808219 
+Classification accuracy for S: 0.988636 
+Classification accuracy for P and S: 0.898428 
+
+----------------------SELECTED FILES: 4 and 7---------------------
+Classification accuracy for P: 0.831683 
+Classification accuracy for S: 0.309278 
+Classification accuracy for P and S: 0.570481 
+
+----------------------SELECTED FILES: 4 and 8---------------------
+Classification accuracy for P: 0.108911 
+Classification accuracy for S: 1.000000 
+Classification accuracy for P and S: 0.554455 
+
+----------------------SELECTED FILES: 4 and 9---------------------
+Classification accuracy for P: 0.108911 
+Classification accuracy for S: 1.000000 
+Classification accuracy for P and S: 0.554455 
+
+----------------------SELECTED FILES: 4 and 10---------------------
+Classification accuracy for P: 0.000000 
+Classification accuracy for S: 0.971963 
+Classification accuracy for P and S: 0.485981 
+
+----------------------SELECTED FILES: 4 and 11---------------------
+Classification accuracy for P: 0.019802 
+Classification accuracy for S: 0.324324 
+Classification accuracy for P and S: 0.172063 
+
+----------------------SELECTED FILES: 4 and 12---------------------
+Classification accuracy for P: 0.009901 
+Classification accuracy for S: 0.184211 
+Classification accuracy for P and S: 0.097056 
+
+----------------------SELECTED FILES: 4 and 13---------------------
+Classification accuracy for P: 0.009901 
+Classification accuracy for S: 0.954545 
+Classification accuracy for P and S: 0.482223 
+
+----------------------SELECTED FILES: 5 and 7---------------------
+Classification accuracy for P: 1.000000 
+Classification accuracy for S: 0.618557 
+Classification accuracy for P and S: 0.809278 
+
+----------------------SELECTED FILES: 5 and 8---------------------
+Classification accuracy for P: 1.000000 
+Classification accuracy for S: 1.000000 
+Classification accuracy for P and S: 1.000000 
+
+----------------------SELECTED FILES: 5 and 9---------------------
+Classification accuracy for P: 0.972973 
+Classification accuracy for S: 0.521739 
+Classification accuracy for P and S: 0.747356 
+
+----------------------SELECTED FILES: 5 and 10---------------------
+Classification accuracy for P: 0.972973 
+Classification accuracy for S: 0.757009 
+Classification accuracy for P and S: 0.864991 
+
+----------------------SELECTED FILES: 5 and 11---------------------
+Classification accuracy for P: 1.000000 
+Classification accuracy for S: 0.229730 
+Classification accuracy for P and S: 0.614865 
+
+----------------------SELECTED FILES: 5 and 12---------------------
+Classification accuracy for P: 1.000000 
+Classification accuracy for S: 0.250000 
+Classification accuracy for P and S: 0.625000 
+
+----------------------SELECTED FILES: 5 and 13---------------------
+Classification accuracy for P: 1.000000 
+Classification accuracy for S: 1.000000 
+Classification accuracy for P and S: 1.000000 
+
+----------------------SELECTED FILES: 6 and 7---------------------
+Classification accuracy for P: 1.000000 
+Classification accuracy for S: 0.010309 
+Classification accuracy for P and S: 0.505155 
+
+----------------------SELECTED FILES: 6 and 8---------------------
+Classification accuracy for P: 0.657895 
+Classification accuracy for S: 1.000000 
+Classification accuracy for P and S: 0.828947 
+
+----------------------SELECTED FILES: 6 and 9---------------------
+Classification accuracy for P: 0.223684 
+Classification accuracy for S: 0.405797 
+Classification accuracy for P and S: 0.314741 
+
+----------------------SELECTED FILES: 6 and 10---------------------
+Classification accuracy for P: 0.289474 
+Classification accuracy for S: 0.981308 
+Classification accuracy for P and S: 0.635391 
+
+----------------------SELECTED FILES: 6 and 11---------------------
+Classification accuracy for P: 0.947368 
+Classification accuracy for S: 0.851351 
+Classification accuracy for P and S: 0.899360 
+
+----------------------SELECTED FILES: 6 and 12---------------------
+Classification accuracy for P: 0.815789 
+Classification accuracy for S: 0.644737 
+Classification accuracy for P and S: 0.730263 
+
+----------------------SELECTED FILES: 6 and 13---------------------
+Classification accuracy for P: 0.947368 
+Classification accuracy for S: 1.000000 
+Classification accuracy for P and S: 0.973684 
+
+Mean overall accuracy: 0.713266 
+Std overall accuracy: 0.235122 
+Mean P accuracy: 0.776747 
+Std P accuracy: 0.334998 
+Mean S accuracy: 0.649786 
+Std S accuracy: 0.373756
